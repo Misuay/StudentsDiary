@@ -12,7 +12,7 @@ class Person{
     String name = "王浩";
     int age  = 18;
     //        解读：
-//        1. public 表示方法是公开的
+//        1. public 表示方法是公开的w
 //        2. void 表示方法没有返回值
 //        3. speak();speak 是方法名 ,()形参列表
 //        4. {}方法体，可以写我们要执行的代码
@@ -28,5 +28,6 @@ class Person{
         }
         System.out.println("计算结果 = " + res);
     }
-}
+}11111
+223232
 
